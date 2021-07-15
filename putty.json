@@ -1,5 +1,5 @@
 {
 	"description": "PuTTY is a popular SSH, Telnet, and SFTP client for Windows.",
-	"version": "0.7",
-	"url":"https://www.ssh.com/a/putty-0.70-installer.msi"
+	"version": "0.75",
+	"url":"https://the.earth.li/~sgtatham/putty/latest/w64/putty-64bit-0.75-installer.msi"
 }
